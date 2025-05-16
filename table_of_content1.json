@@ -1,0 +1,904 @@
+{
+  "parts": [
+    {
+      "number": 1,
+      "title": "Compliance",
+      "sections": [
+        {
+          "number": "1.1",
+          "title": "General",
+          "subsections": [
+            {"number": "1.1.1", "title": "Application of this Code", "page": "1-1"}
+          ]
+        },
+        {
+          "number": "1.2",
+          "title": "Compliance",
+          "subsections": [
+            {"number": "1.2.1", "title": "Compliance with this Code", "page": "1-1"},
+            {"number": "1.2.2", "title": "Materials, Appliances, Systems and Equipment", "page": "1-1"}
+          ]
+        },
+        {
+          "number": "1.3",
+          "title": "Divisions A, B and C of this Code",
+          "subsections": [
+            {"number": "1.3.1", "title": "General", "page": "1-2"},
+            {"number": "1.3.2", "title": "Application of Division A", "page": "1-2"},
+            {"number": "1.3.3", "title": "Application of Division B", "page": "1-2"},
+            {"number": "1.3.4", "title": "Application of Division C", "page": "1-3"}
+          ]
+        },
+        {
+          "number": "1.4",
+          "title": "Terms and Abbreviations",
+          "subsections": [
+            {"number": "1.4.1", "title": "Definitions of Words and Phrases", "page": "1-4"},
+            {"number": "1.4.2", "title": "Symbols and Other Abbreviations", "page": "1-14"}
+          ]
+        },
+        {
+          "number": "1.5",
+          "title": "Referenced Documents and Organizations",
+          "subsections": [
+            {"number": "1.5.1", "title": "Referenced Documents", "page": "1-15"},
+            {"number": "1.5.2", "title": "Organizations", "page": "1-15"}
+          ]
+        },
+        {
+          "number": "Notes to Part 1",
+          "page": "1-17"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Objectives",
+      "sections": [
+        {
+          "number": "2.1",
+          "title": "Application",
+          "subsections": [
+            {"number": "2.1.1", "title": "Application", "page": "2-1"}
+          ]
+        },
+        {
+          "number": "2.2",
+          "title": "Objectives",
+          "subsections": [
+            {"number": "2.2.1", "title": "Objectives", "page": "2-2"}
+          ]
+        },
+        {
+          "number": "Notes to Part 2",
+          "page": "2-7"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Functional Statements",
+      "sections": [
+        {
+          "number": "3.1",
+          "title": "Application",
+          "subsections": [
+            {"number": "3.1.1", "title": "Application", "page": "3-1"}
+          ]
+        },
+        {
+          "number": "3.2",
+          "title": "Functional Statements",
+          "subsections": [
+            {"number": "3.2.1", "title": "Functional Statements", "page": "3-1"}
+          ]
+        },
+        {
+          "number": "Notes to Part 3",
+          "page": "3-5"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Structural Design",
+      "sections": [
+        {
+          "number": "4.1",
+          "title": "Structural Loads and Procedures",
+          "subsections": [
+            {"number": "4.1.1", "title": "General", "page": "4-1"},
+            {"number": "4.1.2", "title": "Specified Loads and Effects", "page": "4-2"},
+            {"number": "4.1.3", "title": "Limit States Design", "page": "4-3"},
+            {"number": "4.1.4", "title": "Dead Loads", "page": "4-7"},
+            {"number": "4.1.5", "title": "Live Loads Due to Use and Occupancy", "page": "4-8"},
+            {"number": "4.1.6", "title": "Loads Due to Snow and Rain", "page": "4-14"},
+            {"number": "4.1.7", "title": "Wind Load", "page": "4-29"},
+            {"number": "4.1.8", "title": "Earthquake Load and Effects", "page": "4-52"}
+          ]
+        },
+        {
+          "number": "4.2",
+          "title": "Foundations",
+          "subsections": [
+            {"number": "4.2.1", "title": "General", "page": "4-82"},
+            {"number": "4.2.2", "title": "Subsurface Investigations, Drawings and Reviews", "page": "4-82"},
+            {"number": "4.2.3", "title": "Materials Used in Foundations", "page": "4-83"},
+            {"number": "4.2.4", "title": "Design Requirements", "page": "4-84"},
+            {"number": "4.2.5", "title": "Excavations", "page": "4-86"},
+            {"number": "4.2.6", "title": "Shallow Foundations", "page": "4-86"},
+            {"number": "4.2.7", "title": "Deep Foundations", "page": "4-87"},
+            {"number": "4.2.8", "title": "Special Foundations", "page": "4-88"}
+          ]
+        },
+        {
+          "number": "4.3",
+          "title": "Design Requirements for Structural Materials",
+          "subsections": [
+            {"number": "4.3.1", "title": "Wood", "page": "4-88"},
+            {"number": "4.3.2", "title": "Plain and Reinforced Masonry", "page": "4-88"},
+            {"number": "4.3.3", "title": "Plain, Reinforced and Pre-stressed Concrete", "page": "4-89"},
+            {"number": "4.3.4", "title": "Steel", "page": "4-89"},
+            {"number": "4.3.5", "title": "Aluminum", "page": "4-89"},
+            {"number": "4.3.6", "title": "Glass", "page": "4-89"}
+          ]
+        },
+        {
+          "number": "4.4",
+          "title": "Design Requirements for Special Structures",
+          "subsections": [
+            {"number": "4.4.1", "title": "Air-, Cable- and Frame-Supported Membrane Structures", "page": "4-89"},
+            {"number": "4.4.2", "title": "Parking Structures", "page": "4-90"},
+            {"number": "4.4.3", "title": "Storage Racks", "page": "4-90"}
+          ]
+        },
+        {
+          "number": "4.5",
+          "title": "Objectives and Functional Statements",
+          "subsections": [
+            {"number": "4.5.1", "title": "Objectives and Functional Statements", "page": "4-90"}
+          ]
+        },
+        {
+          "number": "Notes to Part 4",
+          "page": "4-103"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Environmental Separation",
+      "sections": [
+        {
+          "number": "5.1",
+          "title": "General",
+          "subsections": [
+            {"number": "5.1.1", "title": "Scope", "page": "5-1"},
+            {"number": "5.1.2", "title": "Application", "page": "5-1"},
+            {"number": "5.1.3", "title": "Definitions", "page": "5-1"},
+            {"number": "5.1.4", "title": "Resistance to Loads and Deterioration", "page": "5-2"},
+            {"number": "5.1.5", "title": "Other Requirements", "page": "5-3"}
+          ]
+        },
+        {
+          "number": "5.2",
+          "title": "Loads and Procedures",
+          "subsections": [
+            {"number": "5.2.1", "title": "Environmental Loads and Design Procedures", "page": "5-3"},
+            {"number": "5.2.2", "title": "Structural Loads and Design Procedures", "page": "5-4"}
+          ]
+        },
+        {
+          "number": "5.3",
+          "title": "Heat Transfer",
+          "subsections": [
+            {"number": "5.3.1", "title": "Thermal Resistance of Assemblies", "page": "5-5"}
+          ]
+        },
+        {
+          "number": "5.4",
+          "title": "Air Leakage",
+          "subsections": [
+            {"number": "5.4.1", "title": "Air Barrier Systems", "page": "5-5"}
+          ]
+        },
+        {
+          "number": "5.5",
+          "title": "Vapour Diffusion",
+          "subsections": [
+            {"number": "5.5.1", "title": "Vapour Barriers", "page": "5-7"}
+          ]
+        },
+        {
+          "number": "5.6",
+          "title": "Precipitation",
+          "subsections": [
+            {"number": "5.6.1", "title": "Protection from Precipitation", "page": "5-8"},
+            {"number": "5.6.2", "title": "Sealing, Drainage, Accumulation and Disposal", "page": "5-8"}
+          ]
+        },
+        {
+          "number": "5.7",
+          "title": "Surface and Ground Water",
+          "subsections": [
+            {"number": "5.7.1", "title": "Site Factors", "page": "5-9"},
+            {"number": "5.7.2", "title": "Protection against Hydrostatic Pressure", "page": "5-9"},
+            {"number": "5.7.3", "title": "Protection against Ground Water", "page": "5-9"}
+          ]
+        },
+        {
+          "number": "5.8",
+          "title": "Sound Transmission",
+          "subsections": [
+            {"number": "5.8.1", "title": "Protection from Airborne Noise", "page": "5-10"}
+          ]
+        },
+        {
+          "number": "5.9",
+          "title": "Standards",
+          "subsections": [
+            {"number": "5.9.1", "title": "Applicable Standards", "page": "5-13"},
+            {"number": "5.9.2", "title": "Windows, Doors and Skylights", "page": "5-16"},
+            {"number": "5.9.3", "title": "Other Fenestration Assemblies", "page": "5-17"},
+            {"number": "5.9.4", "title": "Exterior Insulation Finish Systems", "page": "5-18"}
+          ]
+        },
+        {
+          "number": "5.10",
+          "title": "Objectives and Functional Statements",
+          "subsections": [
+            {"number": "5.10.1", "title": "Objectives and Functional Statements", "page": "5-18"}
+          ]
+        },
+        {
+          "number": "Notes to Part 5",
+          "page": "5-23"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Heating, Ventilating and Air-conditioning",
+      "sections": [
+        {
+          "number": "6.1",
+          "title": "General",
+          "subsections": [
+            {"number": "6.1.1", "title": "Application", "page": "6-1"},
+            {"number": "6.1.2", "title": "Definitions", "page": "6-1"},
+            {"number": "6.1.3", "title": "Plans and Specifications", "page": "6-1"}
+          ]
+        },
+        {
+          "number": "6.2",
+          "title": "Planning",
+          "subsections": [
+            {"number": "6.2.1", "title": "General", "page": "6-1"},
+            {"number": "6.2.2", "title": "Incinerators", "page": "6-3"},
+            {"number": "6.2.3", "title": "Solid Fuel Storage", "page": "6-3"}
+          ]
+        },
+        {
+          "number": "6.3",
+          "title": "Ventilation Systems",
+          "subsections": [
+            {"number": "6.3.1", "title": "Ventilation", "page": "6-3"},
+            {"number": "6.3.2", "title": "Air Duct Systems", "page": "6-4"},
+            {"number": "6.3.3", "title": "Chimneys and Venting Equipment", "page": "6-10"},
+            {"number": "6.3.4", "title": "Ventilation for Laboratories", "page": "6-11"}
+          ]
+        },
+        {
+          "number": "6.4",
+          "title": "Heating Systems",
+          "subsections": [
+            {"number": "6.4.1", "title": "Heating Appliances, General", "page": "6-12"},
+            {"number": "6.4.2", "title": "Unit Heaters", "page": "6-12"},
+            {"number": "6.4.3", "title": "Radiators and Convectors", "page": "6-12"}
+          ]
+        },
+        {
+          "number": "6.5",
+          "title": "Thermal Insulation Systems",
+          "subsections": [
+            {"number": "6.5.1", "title": "Insulation", "page": "6-12"}
+          ]
+        },
+        {
+          "number": "6.6",
+          "title": "Refrigeration and Cooling Systems",
+          "subsections": [
+            {"number": "6.6.1", "title": "Refrigerating Systems and Equipment for Air-conditioning", "page": "6-12"}
+          ]
+        },
+        {
+          "number": "6.7",
+          "title": "Piping Systems",
+          "subsections": [
+            {"number": "6.7.1", "title": "Piping for Heating and Cooling Systems", "page": "6-13"},
+            {"number": "6.7.2", "title": "Storage Bins", "page": "6-13"}
+          ]
+        },
+        {
+          "number": "6.8",
+          "title": "Equipment Access",
+          "subsections": [
+            {"number": "6.8.1", "title": "Openings", "page": "6-14"}
+          ]
+        },
+        {
+          "number": "6.9",
+          "title": "Fire Safety Systems",
+          "subsections": [
+            {"number": "6.9.1", "title": "General", "page": "6-14"},
+            {"number": "6.9.2", "title": "Dampers and Ductwork", "page": "6-15"},
+            {"number": "6.9.3", "title": "Carbon Monoxide Alarms", "page": "6-15"},
+            {"number": "6.9.4", "title": "Ash Storage", "page": "6-16"}
+          ]
+        },
+        {
+          "number": "6.10",
+          "title": "Objectives and Functional Statements",
+          "subsections": [
+            {"number": "6.10.1", "title": "Objectives and Functional Statements", "page": "6-16"}
+          ]
+        },
+        {
+          "number": "Notes to Part 6",
+          "page": "6-21"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Plumbing Services",
+      "sections": [
+        {
+          "number": "7.1",
+          "title": "General",
+          "subsections": [
+            {"number": "7.1.1", "title": "Scope", "page": "7-1"},
+            {"number": "7.1.2", "title": "Design and Installation", "page": "7-1"},
+            {"number": "7.1.3", "title": "Required Facilities", "page": "7-1"},
+            {"number": "7.1.4", "title": "Definitions", "page": "7-1"}
+          ]
+        },
+        {
+          "number": "7.2",
+          "title": "Objectives and Functional Statements",
+          "subsections": [
+            {"number": "7.2.1", "title": "Objectives and Functional Statements", "page": "7-1"}
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Safety Measures at Construction and Demolition Sites",
+      "sections": [
+        {
+          "number": "8.1",
+          "title": "General",
+          "subsections": [
+            {"number": "8.1.1", "title": "Scope", "page": "8-1"},
+            {"number": "8.1.2", "title": "Application", "page": "8-1"}
+          ]
+        },
+        {
+          "number": "8.2",
+          "title": "Protection of the Public",
+          "subsections": [
+            {"number": "8.2.1", "title": "Fencing and Barricades", "page": "8-1"},
+            {"number": "8.2.2", "title": "Excavation", "page": "8-2"},
+            {"number": "8.2.3", "title": "Use of Streets or Public Property", "page": "8-3"},
+            {"number": "8.2.4", "title": "Direction of Vehicular Traffic", "page": "8-3"},
+            {"number": "8.2.5", "title": "Waste Material", "page": "8-4"}
+          ]
+        },
+        {
+          "number": "8.3",
+          "title": "Objectives and Functional Statements",
+          "subsections": [
+            {"number": "8.3.1", "title": "Objectives and Functional Statements", "page": "8-5"}
+          ]
+        },
+        {
+          "number": "Notes to Part 8",
+          "page": "8-7"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Housing and Small Buildings",
+      "sections": [
+        {
+          "number": "9.1",
+          "title": "General",
+          "subsections": [
+            {"number": "9.1.1", "title": "Application", "page": "9-1"},
+            {"number": "9.1.2", "title": "Limits on Floor Area", "page": "9-1"}
+          ]
+        },
+        {
+          "number": "9.2",
+          "title": "Definitions",
+          "subsections": [
+            {"number": "9.2.1", "title": "General", "page": "9-1"}
+          ]
+        },
+        {
+          "number": "9.3",
+          "title": "Materials, Systems and Equipment",
+          "subsections": [
+            {"number": "9.3.1", "title": "Concrete", "page": "9-1"},
+            {"number": "9.3.2", "title": "Lumber and Wood Products", "page": "9-3"},
+            {"number": "9.3.3", "title": "Metal", "page": "9-6"}
+          ]
+        },
+        {
+          "number": "9.4",
+          "title": "Structural Requirements",
+          "subsections": [
+            {"number": "9.4.1", "title": "Structural Design Requirements and Application Limitations", "page": "9-6"},
+            {"number": "9.4.2", "title": "Specified Loads", "page": "9-7"},
+            {"number": "9.4.3", "title": "Deflections", "page": "9-8"},
+            {"number": "9.4.4", "title": "Foundation Conditions", "page": "9-9"}
+          ]
+        },
+        {
+          "number": "9.5",
+          "title": "Design of Areas and Spaces",
+          "subsections": [
+            {"number": "9.5.1", "title": "General", "page": "9-10"},
+            {"number": "9.5.2", "title": "Barrier-Free Design", "page": "9-10"},
+            {"number": "9.5.3", "title": "Ceiling Heights", "page": "9-11"},
+            {"number": "9.5.4", "title": "Hallways", "page": "9-11"},
+            {"number": "9.5.5", "title": "Doorway Sizes", "page": "9-12"}
+          ]
+        },
+        {
+          "number": "9.6",
+          "title": "Glass",
+          "subsections": [
+            {"number": "9.6.1", "title": "General", "page": "9-12"}
+          ]
+        },
+        {
+          "number": "9.7",
+          "title": "Windows, Doors and Skylights",
+          "subsections": [
+            {"number": "9.7.1", "title": "General", "page": "9-16"},
+            {"number": "9.7.2", "title": "Required Windows, Doors and Skylights", "page": "9-16"},
+            {"number": "9.7.3", "title": "Performance of Windows, Doors and Skylights", "page": "9-17"},
+            {"number": "9.7.4", "title": "Manufactured Windows, Doors and Skylights", "page": "9-18"},
+            {"number": "9.7.5", "title": "Site-Built Windows, Doors and Skylights", "page": "9-19"},
+            {"number": "9.7.6", "title": "Installation", "page": "9-20"}
+          ]
+        },
+        {
+          "number": "9.8",
+          "title": "Stairs, Ramps, Handrails and Guards",
+          "subsections": [
+            {"number": "9.8.1", "title": "Application", "page": "9-21"},
+            {"number": "9.8.2", "title": "Stair Dimensions", "page": "9-21"},
+            {"number": "9.8.3", "title": "Stair Configurations", "page": "9-22"},
+            {"number": "9.8.4", "title": "Step Dimensions", "page": "9-22"},
+            {"number": "9.8.5", "title": "Ramps", "page": "9-25"},
+            {"number": "9.8.6", "title": "Landings", "page": "9-26"},
+            {"number": "9.8.7", "title": "Handrails", "page": "9-27"},
+            {"number": "9.8.8", "title": "Guards", "page": "9-29"},
+            {"number": "9.8.9", "title": "Construction", "page": "9-31"},
+            {"number": "9.8.10", "title": "Cantilevered Precast Concrete Steps", "page": "9-32"}
+          ]
+        },
+        {
+          "number": "9.9",
+          "title": "Means of Egress",
+          "subsections": [
+            {"number": "9.9.1", "title": "General", "page": "9-33"},
+            {"number": "9.9.2", "title": "Types and Purpose of Exits", "page": "9-33"},
+            {"number": "9.9.3", "title": "Dimensions of Means of Egress", "page": "9-34"},
+            {"number": "9.9.4", "title": "Fire Protection of Exits", "page": "9-34"},
+            {"number": "9.9.5", "title": "Obstructions and Hazards", "page": "9-36"},
+            {"number": "9.9.6", "title": "Doors in a Means of Egress", "page": "9-37"},
+            {"number": "9.9.7", "title": "Access to Exits", "page": "9-39"},
+            {"number": "9.9.8", "title": "Exits from Floor Areas", "page": "9-40"},
+            {"number": "9.9.9", "title": "Egress from Dwelling Units", "page": "9-42"},
+            {"number": "9.9.10", "title": "Egress from Bedrooms", "page": "9-43"},
+            {"number": "9.9.11", "title": "Signs", "page": "9-43"},
+            {"number": "9.9.12", "title": "Lighting", "page": "9-44"}
+          ]
+        },
+        {
+          "number": "9.10",
+          "title": "Fire Protection",
+          "subsections": [
+            {"number": "9.10.1", "title": "Definitions and Application", "page": "9-45"},
+            {"number": "9.10.2", "title": "Occupancy Classification", "page": "9-46"},
+            {"number": "9.10.3", "title": "Ratings", "page": "9-48"},
+            {"number": "9.10.4", "title": "Building Size Determination", "page": "9-49"},
+            {"number": "9.10.5", "title": "Permitted Openings in Wall and Ceiling Membranes", "page": "9-50"},
+            {"number": "9.10.6", "title": "Construction Types", "page": "9-50"},
+            {"number": "9.10.7", "title": "Steel Members", "page": "9-50"},
+            {"number": "9.10.8", "title": "Fire Resistance and Combustibility", "page": "9-50"},
+            {"number": "9.10.9", "title": "Fire Separations and Smoke-tight Barriers", "page": "9-52"},
+            {"number": "9.10.10", "title": "Service Rooms", "page": "9-58"},
+            {"number": "9.10.11", "title": "Firewalls", "page": "9-59"},
+            {"number": "9.10.12", "title": "Prevention of Fire Spread", "page": "9-60"},
+            {"number": "9.10.13", "title": "Doors, Dampers and Closures", "page": "9-61"},
+            {"number": "9.10.14", "title": "Spatial Separation Between Buildings", "page": "9-64"},
+            {"number": "9.10.15", "title": "Spatial Separation Between Houses", "page": "9-69"},
+            {"number": "9.10.16", "title": "Fire Blocks", "page": "9-74"},
+            {"number": "9.10.17", "title": "Flame-Spread Limits", "page": "9-75"},
+            {"number": "9.10.18", "title": "Alarm and Detection Systems", "page": "9-77"},
+            {"number": "9.10.19", "title": "Smoke Alarms", "page": "9-80"},
+            {"number": "9.10.20", "title": "Firefighting", "page": "9-80"},
+            {"number": "9.10.21", "title": "Fire Protection for Construction Camps", "page": "9-81"},
+            {"number": "9.10.22", "title": "Fire Protection for Gas, Propane and Electric Cooktops and Ovens", "page": "9-82"}
+          ]
+        },
+        {
+          "number": "9.11",
+          "title": "Sound Transmission",
+          "subsections": [
+            {"number": "9.11.1", "title": "Protection from Airborne Noise", "page": "9-83"}
+          ]
+        },
+        {
+          "number": "9.12",
+          "title": "Excavation",
+          "subsections": [
+            {"number": "9.12.1", "title": "General", "page": "9-85"},
+            {"number": "9.12.2", "title": "Depth", "page": "9-85"},
+            {"number": "9.12.3", "title": "Backfill", "page": "9-86"},
+            {"number": "9.12.4", "title": "Trenches beneath Footings", "page": "9-87"}
+          ]
+        },
+        {
+          "number": "9.13",
+          "title": "Dampproofing, Waterproofing and Soil Gas Control",
+          "subsections": [
+            {"number": "9.13.1", "title": "General", "page": "9-87"},
+            {"number": "9.13.2", "title": "Dampproofing", "page": "9-87"},
+            {"number": "9.13.3", "title": "Waterproofing", "page": "9-89"},
+            {"number": "9.13.4", "title": "Soil Gas Control", "page": "9-91"}
+          ]
+        },
+        {
+          "number": "9.14",
+          "title": "Drainage",
+          "subsections": [
+            {"number": "9.14.1", "title": "Scope", "page": "9-92"},
+            {"number": "9.14.2", "title": "Foundation Drainage", "page": "9-92"},
+            {"number": "9.14.3", "title": "Drainage Tile and Pipe", "page": "9-93"},
+            {"number": "9.14.4", "title": "Granular Drainage Layer", "page": "9-93"},
+            {"number": "9.14.5", "title": "Drainage Disposal", "page": "9-93"},
+            {"number": "9.14.6", "title": "Surface Drainage", "page": "9-94"}
+          ]
+        },
+        {
+          "number": "9.15",
+          "title": "Footings and Foundations",
+          "subsections": [
+            {"number": "9.15.1", "title": "Application", "page": "9-94"},
+            {"number": "9.15.2", "title": "General", "page": "9-95"},
+            {"number": "9.15.3", "title": "Footings", "page": "9-96"},
+            {"number": "9.15.4", "title": "Foundation Walls", "page": "9-98"},
+            {"number": "9.15.5", "title": "Support of Joists and Beams on Masonry Foundation Walls", "page": "9-102"},
+            {"number": "9.15.6", "title": "Parge and Finish of Masonry Foundation Walls", "page": "9-103"}
+          ]
+        },
+        {
+          "number": "9.16",
+          "title": "Floors-on-Ground",
+          "subsections": [
+            {"number": "9.16.1", "title": "Scope", "page": "9-103"},
+            {"number": "9.16.2", "title": "Material beneath Floors", "page": "9-103"},
+            {"number": "9.16.3", "title": "Drainage", "page": "9-104"},
+            {"number": "9.16.4", "title": "Concrete", "page": "9-104"},
+            {"number": "9.16.5", "title": "Wood", "page": "9-105"}
+          ]
+        },
+        {
+          "number": "9.17",
+          "title": "Columns",
+          "subsections": [
+            {"number": "9.17.1", "title": "Scope", "page": "9-105"},
+            {"number": "9.17.2", "title": "General", "page": "9-105"},
+            {"number": "9.17.3", "title": "Steel Columns", "page": "9-106"},
+            {"number": "9.17.4", "title": "Wood Columns", "page": "9-106"},
+            {"number": "9.17.5", "title": "Unit Masonry Columns", "page": "9-107"},
+            {"number": "9.17.6", "title": "Solid Concrete Columns", "page": "9-107"}
+          ]
+        },
+        {
+          "number": "9.18",
+          "title": "Crawl Spaces",
+          "subsections": [
+            {"number": "9.18.1", "title": "General", "page": "9-107"},
+            {"number": "9.18.2", "title": "Access", "page": "9-107"},
+            {"number": "9.18.3", "title": "Ventilation", "page": "9-108"},
+            {"number": "9.18.4", "title": "Clearance", "page": "9-108"},
+            {"number": "9.18.5", "title": "Drainage", "page": "9-108"},
+            {"number": "9.18.6", "title": "Ground Cover", "page": "9-108"},
+            {"number": "9.18.7", "title": "Fire Protection", "page": "9-109"}
+          ]
+        },
+        {
+          "number": "9.19",
+          "title": "Roof Spaces",
+          "subsections": [
+            {"number": "9.19.1", "title": "Venting", "page": "9-109"},
+            {"number": "9.19.2", "title": "Access", "page": "9-110"}
+          ]
+        },
+        {
+          "number": "9.20",
+          "title": "Masonry and Insulating Concrete Form Walls Not In Contact with the Ground",
+          "subsections": [
+            {"number": "9.20.1", "title": "Application", "page": "9-110"},
+            {"number": "9.20.2", "title": "Masonry Units", "page": "9-111"},
+            {"number": "9.20.3", "title": "Mortar", "page": "9-112"},
+            {"number": "9.20.4", "title": "Mortar Joints", "page": "9-113"},
+            {"number": "9.20.5", "title": "Masonry Support", "page": "9-114"},
+            {"number": "9.20.6", "title": "Thickness and Height", "page": "9-114"},
+            {"number": "9.20.7", "title": "Chases and Recesses", "page": "9-115"},
+            {"number": "9.20.8", "title": "Support of Loads", "page": "9-116"},
+            {"number": "9.20.9", "title": "Bonding and Tying", "page": "9-117"},
+            {"number": "9.20.10", "title": "Lateral Support", "page": "9-118"},
+            {"number": "9.20.11", "title": "Anchorage of Roofs, Floors and Intersecting Walls", "page": "9-119"},
+            {"number": "9.20.12", "title": "Corbelling", "page": "9-120"},
+            {"number": "9.20.13", "title": "Control of Rainwater Penetration", "page": "9-120"},
+            {"number": "9.20.14", "title": "Protection during Work", "page": "9-122"},
+            {"number": "9.20.15", "title": "Reinforcement for Earthquake Resistance", "page": "9-123"},
+            {"number": "9.20.16", "title": "Corrosion Resistance", "page": "9-123"},
+            {"number": "9.20.17", "title": "Above-Ground Flat Insulating Concrete Form Walls", "page": "9-123"}
+          ]
+        },
+        {
+          "number": "9.21",
+          "title": "Masonry and Concrete Chimneys and Flues",
+          "subsections": [
+            {"number": "9.21.1", "title": "General", "page": "9-125"},
+            {"number": "9.21.2", "title": "Chimney Flues", "page": "9-125"},
+            {"number": "9.21.3", "title": "Chimney Lining", "page": "9-127"},
+            {"number": "9.21.4", "title": "Masonry and Concrete Chimney Construction", "page": "9-128"},
+            {"number": "9.21.5", "title": "Clearance from Combustible Construction", "page": "9-129"}
+          ]
+        },
+        {
+          "number": "9.22",
+          "title": "Fireplaces",
+          "subsections": [
+            {"number": "9.22.1", "title": "General", "page": "9-130"},
+            {"number": "9.22.2", "title": "Fireplace Liners", "page": "9-130"},
+            {"number": "9.22.3", "title": "Fireplace Walls", "page": "9-130"},
+            {"number": "9.22.4", "title": "Fire Chamber", "page": "9-131"},
+            {"number": "9.22.5", "title": "Damper", "page": "9-131"},
+            {"number": "9.22.6", "title": "Smoke Chamber", "page": "9-131"},
+            {"number": "9.22.7", "title": "Factory-Built Fireplaces", "page": "9-131"},
+            {"number": "9.22.8", "title": "Clearance of Combustible Material", "page": "9-131"},
+            {"number": "9.22.9", "title": "Fireplace Inserts and Hearth-Mounted Stoves", "page": "9-132"}
+          ]
+        },
+        {
+          "number": "9.23",
+          "title": "Wood-Frame Construction",
+          "subsections": [
+            {"number": "9.23.1", "title": "Application", "page": "9-132"},
+            {"number": "9.23.2", "title": "General", "page": "9-133"},
+            {"number": "9.23.3", "title": "Fasteners and Connectors", "page": "9-133"},
+            {"number": "9.23.4", "title": "Maximum Spans", "page": "9-137"},
+            {"number": "9.23.5", "title": "Notching and Drilling", "page": "9-139"},
+            {"number": "9.23.6", "title": "Anchorage", "page": "9-140"},
+            {"number": "9.23.7", "title": "Sill Plates", "page": "9-141"},
+            {"number": "9.23.8", "title": "Beams to Support Floors", "page": "9-142"},
+            {"number": "9.23.9", "title": "Floor Joists", "page": "9-142"},
+            {"number": "9.23.10", "title": "Wall Studs", "page": "9-144"},
+            {"number": "9.23.11", "title": "Wall Plates", "page": "9-146"},
+            {"number": "9.23.12", "title": "Framing over Openings", "page": "9-147"},
+            {"number": "9.23.13", "title": "Bracing to Resist Lateral Loads", "page": "9-148"},
+            {"number": "9.23.14", "title": "Due to Wind and Earthquake", "page": "9-148"},
+            {"number": "9.23.15", "title": "Roof and Ceiling Framing", "page": "9-156"},
+            {"number": "9.23.16", "title": "Roof Sheathing", "page": "9-158"},
+            {"number": "9.23.17", "title": "Wall Sheathing", "page": "9-159"}
+          ]
+        },
+        {
+          "number": "9.24",
+          "title": "Sheet Steel Stud Wall Framing",
+          "subsections": [
+            {"number": "9.24.1", "title": "General", "page": "9-161"},
+            {"number": "9.24.2", "title": "Size of Framing", "page": "9-161"},
+            {"number": "9.24.3", "title": "Installation", "page": "9-163"}
+          ]
+        },
+        {
+          "number": "9.25",
+          "title": "Heat Transfer, Air Leakage and Condensation Control",
+          "subsections": [
+            {"number": "9.25.1", "title": "General", "page": "9-164"},
+            {"number": "9.25.2", "title": "Thermal Insulation", "page": "9-165"},
+            {"number": "9.25.3", "title": "Air Barrier Systems", "page": "9-168"},
+            {"number": "9.25.4", "title": "Vapour Barriers", "page": "9-168"},
+            {"number": "9.25.5", "title": "Properties and Position of Materials in the Building Envelope", "page": "9-169"}
+          ]
+        },
+        {
+          "number": "9.26",
+          "title": "Roofing",
+          "subsections": [
+            {"number": "9.26.1", "title": "General", "page": "9-170"},
+            {"number": "9.26.2", "title": "Roofing Materials", "page": "9-170"},
+            {"number": "9.26.3", "title": "Slope of Roofed Surfaces", "page": "9-172"},
+            {"number": "9.26.4", "title": "Flashing at Intersections", "page": "9-173"},
+            {"number": "9.26.5", "title": "Eave Protection for Shingles and Shakes", "page": "9-175"},
+            {"number": "9.26.6", "title": "Underlay beneath Shingles", "page": "9-175"},
+            {"number": "9.26.7", "title": "Asphalt Shingles on Slopes of 1 in 3 or Greater", "page": "9-176"},
+            {"number": "9.26.8", "title": "Asphalt Shingles on Slopes of less than 1 in 3", "page": "9-177"},
+            {"number": "9.26.9", "title": "Wood Roof Shakes", "page": "9-177"},
+            {"number": "9.26.10", "title": "Cedar Roof Shakes", "page": "9-178"},
+            {"number": "9.26.11", "title": "Built-Up Roofs", "page": "9-179"},
+            {"number": "9.26.12", "title": "Selvage Roofing", "page": "9-179"},
+            {"number": "9.26.13", "title": "Sheet Metal Roofing", "page": "9-180"},
+            {"number": "9.26.14", "title": "Glass Reinforced Polyester Roofing", "page": "9-181"},
+            {"number": "9.26.15", "title": "Hot Applied Rubberized Asphalt Roofing", "page": "9-181"},
+            {"number": "9.26.16", "title": "Polyvinyl Chloride Sheet Roofing", "page": "9-181"},
+            {"number": "9.26.17", "title": "Concrete Roof Tiles", "page": "9-181"},
+            {"number": "9.26.18", "title": "Roof Drains and Downspouts", "page": "9-181"}
+          ]
+        },
+        {
+          "number": "9.27",
+          "title": "Cladding",
+          "subsections": [
+            {"number": "9.27.1", "title": "Application", "page": "9-181"},
+            {"number": "9.27.2", "title": "Required Protection from Precipitation", "page": "9-182"},
+            {"number": "9.27.3", "title": "Second Plane of Protection", "page": "9-184"},
+            {"number": "9.27.4", "title": "Sealants", "page": "9-185"},
+            {"number": "9.27.5", "title": "Attachment of Cladding", "page": "9-186"},
+            {"number": "9.27.6", "title": "Lumber Siding", "page": "9-190"},
+            {"number": "9.27.7", "title": "Wood Shingles and Shakes", "page": "9-191"},
+            {"number": "9.27.8", "title": "Plywood", "page": "9-191"},
+            {"number": "9.27.9", "title": "Hardboard", "page": "9-192"},
+            {"number": "9.27.10", "title": "OSB and Waferboard", "page": "9-192"},
+            {"number": "9.27.11", "title": "Metal", "page": "9-193"},
+            {"number": "9.27.12", "title": "Vinyl Siding, Insulated Vinyl Siding and Vinyl Soffits", "page": "9-193"},
+            {"number": "9.27.13", "title": "Polypropylene Siding", "page": "9-194"},
+            {"number": "9.27.14", "title": "Exterior Insulation Finish Systems", "page": "9-194"}
+          ]
+        },
+        {
+          "number": "9.28",
+          "title": "Stucco",
+          "subsections": [
+            {"number": "9.28.1", "title": "General", "page": "9-194"},
+            {"number": "9.28.2", "title": "Stucco Materials", "page": "9-195"},
+            {"number": "9.28.3", "title": "Fasteners", "page": "9-196"},
+            {"number": "9.28.4", "title": "Stucco Lath", "page": "9-196"},
+            {"number": "9.28.5", "title": "Stucco Mixes", "page": "9-197"},
+            {"number": "9.28.6", "title": "Stucco Application", "page": "9-197"}
+          ]
+        },
+        {
+          "number": "9.29",
+          "title": "Interior Wall and Ceiling Finishes",
+          "subsections": [
+            {"number": "9.29.1", "title": "General", "page": "9-198"},
+            {"number": "9.29.2", "title": "Waterproof Wall Finish", "page": "9-198"},
+            {"number": "9.29.3", "title": "Wood Furring", "page": "9-198"},
+            {"number": "9.29.4", "title": "Plastering", "page": "9-199"},
+            {"number": "9.29.5", "title": "Gypsum Board Finish (Taped Joints)", "page": "9-199"},
+            {"number": "9.29.6", "title": "Plywood Finish", "page": "9-201"},
+            {"number": "9.29.7", "title": "Hardboard Finish", "page": "9-202"},
+            {"number": "9.29.8", "title": "Insulating Fibreboard Finish", "page": "9-203"},
+            {"number": "9.29.9", "title": "Particleboard, OSB or Waferboard Finish", "page": "9-203"},
+            {"number": "9.29.10", "title": "Wall Tile Finish", "page": "9-204"}
+          ]
+        },
+        {
+          "number": "9.30",
+          "title": "Flooring",
+          "subsections": [
+            {"number": "9.30.1", "title": "General", "page": "9-204"},
+            {"number": "9.30.2", "title": "Panel-Type Underlay", "page": "9-205"},
+            {"number": "9.30.3", "title": "Wood Strip Flooring", "page": "9-206"},
+            {"number": "9.30.4", "title": "Parquet Flooring", "page": "9-207"},
+            {"number": "9.30.5", "title": "Resilient Flooring", "page": "9-207"},
+            {"number": "9.30.6", "title": "Ceramic Tile", "page": "9-207"}
+          ]
+        },
+        {
+          "number": "9.31",
+          "title": "Plumbing Facilities",
+          "subsections": [
+            {"number": "9.31.1", "title": "Scope", "page": "9-207"},
+            {"number": "9.31.2", "title": "General", "page": "9-207"},
+            {"number": "9.31.3", "title": "Water Supply and Distribution", "page": "9-208"},
+            {"number": "9.31.4", "title": "Required Facilities", "page": "9-208"},
+            {"number": "9.31.5", "title": "Sewage Disposal", "page": "9-208"},
+            {"number": "9.31.6", "title": "Service Water Heating Facilities", "page": "9-208"}
+          ]
+        },
+        {
+          "number": "9.32",
+          "title": "Ventilation",
+          "subsections": [
+            {"number": "9.32.1", "title": "General", "page": "9-209"},
+            {"number": "9.32.2", "title": "Non-Heating-Season Ventilation", "page": "9-210"},
+            {"number": "9.32.3", "title": "Heating-Season Mechanical Ventilation", "page": "9-212"}
+          ]
+        },
+        {
+          "number": "9.33",
+          "title": "Heating and Air-conditioning",
+          "subsections": [
+            {"number": "9.33.1", "title": "General", "page": "9-223"},
+            {"number": "9.33.2", "title": "Required Heating Systems", "page": "9-223"},
+            {"number": "9.33.3", "title": "Design Temperatures", "page": "9-223"},
+            {"number": "9.33.4", "title": "General Requirements for Heating and Air-conditioning Systems", "page": "9-224"},
+            {"number": "9.33.5", "title": "Heating and Air-conditioning Appliances and Equipment", "page": "9-225"},
+            {"number": "9.33.6", "title": "Air Duct Systems", "page": "9-225"},
+            {"number": "9.33.7", "title": "Radiators and Convectors", "page": "9-230"},
+            {"number": "9.33.8", "title": "Piping for Heating and Cooling Systems", "page": "9-231"},
+            {"number": "9.33.9", "title": "Refrigerating Systems and Equipment for Air-conditioning", "page": "9-232"},
+            {"number": "9.33.10", "title": "Chimneys and Venting Equipment", "page": "9-232"}
+          ]
+        },
+        {
+          "number": "9.34",
+          "title": "Electrical Facilities",
+          "subsections": [
+            {"number": "9.34.1", "title": "General", "page": "9-232"},
+            {"number": "9.34.2", "title": "Lighting Outlets", "page": "9-233"},
+            {"number": "9.34.3", "title": "Emergency Lighting", "page": "9-234"}
+          ]
+        },
+        {
+          "number": "9.35",
+          "title": "Garages and Carports",
+          "subsections": [
+            {"number": "9.35.1", "title": "Scope", "page": "9-234"},
+            {"number": "9.35.2", "title": "General", "page": "9-235"},
+            {"number": "9.35.3", "title": "Foundations", "page": "9-235"},
+            {"number": "9.35.4", "title": "Walls and Columns", "page": "9-236"}
+          ]
+        },
+        {
+          "number": "9.36",
+          "title": "Energy Efficiency",
+          "subsections": [
+            {"number": "9.36.1", "title": "General", "page": "9-236"},
+            {"number": "9.36.2", "title": "Building Envelope", "page": "9-237"},
+            {"number": "9.36.3", "title": "HVAC Requirements", "page": "9-249"},
+            {"number": "9.36.4", "title": "Service Water Heating Systems", "page": "9-255"},
+            {"number": "9.36.5", "title": "Energy Performance Compliance", "page": "9-258"},
+            {"number": "9.36.6", "title": "Airtightness of Building Envelope", "page": "9-270"},
+            {"number": "9.36.7", "title": "Tiered Energy Performance Compliance: Performance Path", "page": "9-272"},
+            {"number": "9.36.8", "title": "Tiered Energy Performance Compliance: Prescriptive Path", "page": "9-274"}
+          ]
+        },
+        {
+          "number": "9.37",
+          "title": "Objectives and Functional Statements",
+          "subsections": [
+            {"number": "9.37.1", "title": "Objectives and Functional Statements", "page": "9-281"}
+          ]
+        },
+        {
+          "title": "Fire and Sound Resistance Tables",
+          "page": "9-395"
+        },
+        {
+          "title": "Span Tables",
+          "page": "9-477"
+        },
+        {
+          "title": "Notes to Part 9",
+          "page": "9-511"
+        }
+      ]
+    }
+  ]
+}

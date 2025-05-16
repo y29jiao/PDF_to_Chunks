@@ -1,0 +1,4 @@
+pymupdf==1.23.8
+tqdm==4.66.2
+beautifulsoup4==4.12.2 
+unstructured==0.17.2
